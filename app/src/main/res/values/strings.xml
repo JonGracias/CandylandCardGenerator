@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Candyland Card Generator</string>
+    <string name="Image">Your Card</string>
+    <string name="button">Generate</string>
+</resources>
